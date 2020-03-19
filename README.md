@@ -7,9 +7,9 @@ Visual Studio
 ## Net Framework 4.0
 
 ## ScreenshootS
-<img src="https://raw.githubusercontent.com/jahanzeb-j/SmartAssistant/master/VoiceRecognition/smartAssistantScreen1.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/jahanzeb-j/SmartAssistant/master/smartAssistantScreen1.PNG" width="500" height="500">
 
-<img src="https://raw.githubusercontent.com/jahanzeb-j/SmartAssistant/master/VoiceRecognition/smartAssistantScreen2.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/jahanzeb-j/SmartAssistant/master/smartAssistantScreen2.PNG" width="500" height="500">
 
 ## Getting Started
 1. Open Visual Studio
